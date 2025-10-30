@@ -5,7 +5,7 @@ draft: false
 tags: ["Echo State Networks", "Reservoir Computing", "Approximation Theory"]
 author: "Allen G. Hart, James L. Hook, Jonathan H.P. Dawes"
 description: "Theoretical analysis showing echo state networks trained by Tikhonov least squares are L2(μ) approximators of ergodic dynamical systems."
-summary: "Theoretical analysis showing echo state networks trained by Tikhonov least squares are L2(μ) approximators of ergodic dynamical systems. Cited by 66."
+summary: "Theoretical analysis showing echo state networks trained by Tikhonov least squares are L2(μ) approximators of ergodic dynamical systems."
 ShowToc: false
 weight: 7
 ---
@@ -13,8 +13,6 @@ weight: 7
 ## Citation
 
 Allen G. Hart, James L. Hook, and Jonathan H.P. Dawes. "Echo state networks trained by Tikhonov least squares are L2(μ) approximators of ergodic dynamical systems." *Physica D: Nonlinear Phenomena* 421, 132882, 2021.
-
-**Cited by: 66**
 
 ## Links
 

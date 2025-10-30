@@ -5,7 +5,7 @@ draft: false
 tags: ["Reservoir Computing", "Dynamical Systems", "Synchronisation"]
 author: "Allen G. Hart"
 description: "Analysis of generalised synchronisations, embeddings, and approximations for continuous time reservoir computers."
-summary: "Analysis of generalised synchronisations, embeddings, and approximations for continuous time reservoir computers. Cited by 9."
+summary: "Analysis of generalised synchronisations, embeddings, and approximations for continuous time reservoir computers."
 ShowToc: false
 weight: 3
 ---
@@ -13,8 +13,6 @@ weight: 3
 ## Citation
 
 Allen G. Hart. "Generalised synchronisations, embeddings, and approximations for continuous time reservoir computers." *Physica D: Nonlinear Phenomena* 458, 133956, 2024.
-
-**Cited by: 9**
 
 ## Links
 

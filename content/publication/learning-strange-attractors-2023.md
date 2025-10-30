@@ -5,7 +5,7 @@ draft: false
 tags: ["Reservoir Computing", "Dynamical Systems", "Strange Attractors"]
 author: "L. Grigoryeva, A. Hart, J.P. Ortega"
 description: "Investigation of learning strange attractors using reservoir computing systems."
-summary: "Investigation of learning strange attractors using reservoir computing systems. Cited by 40."
+summary: "Investigation of learning strange attractors using reservoir computing systems."
 ShowToc: false
 weight: 4
 ---
@@ -13,8 +13,6 @@ weight: 4
 ## Citation
 
 L. Grigoryeva, A. Hart, and J.P. Ortega. "Learning strange attractors with reservoir systems." *Nonlinearity* 36 (9), 4674, 2023.
-
-**Cited by: 40**
 
 ## Links
 

@@ -5,7 +5,7 @@ draft: false
 tags: ["Echo State Networks", "Approximation Theory", "Recurrent Neural Networks"]
 author: "A. Hart, J. Hook, J. Dawes"
 description: "Theoretical foundations of embedding and approximation properties for echo state networks."
-summary: "Theoretical foundations of embedding and approximation properties for echo state networks. Cited by 149."
+summary: "Theoretical foundations of embedding and approximation properties for echo state networks."
 ShowToc: false
 featured: true
 weight: 11
@@ -15,8 +15,6 @@ weight: 11
 
 A. Hart, J. Hook, and J. Dawes. "Embedding and approximation theorems for echo state networks." *Neural Networks* 128, 234-247, 2020.
 
-**Cited by: 149**
-
 ## Links
 
 - [Publisher](https://doi.org/10.1016/j.neunet.2020.05.013)
@@ -24,7 +22,3 @@ A. Hart, J. Hook, and J. Dawes. "Embedding and approximation theorems for echo s
 ## Abstract
 
 Available at publisher website.
-
-## Note
-
-This is one of the most highly cited papers in the field of echo state networks and reservoir computing.

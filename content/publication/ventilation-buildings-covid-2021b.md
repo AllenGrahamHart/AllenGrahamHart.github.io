@@ -5,7 +5,7 @@ draft: false
 tags: ["COVID-19", "Ventilation", "Public Health"]
 author: "H.C. Burridge, R.K. Bhagat, M.E.J. Stettler, P. Kumar, I. De Mel, P. Demis, A. Hart, et al."
 description: "Comprehensive study on building ventilation and COVID-19 mitigation measures."
-summary: "Comprehensive study on building ventilation and COVID-19 mitigation measures. Cited by 2."
+summary: "Comprehensive study on building ventilation and COVID-19 mitigation measures."
 ShowToc: false
 weight: 9
 ---
@@ -13,8 +13,6 @@ weight: 9
 ## Citation
 
 H.C. Burridge, R.K. Bhagat, M.E.J. Stettler, P. Kumar, I. De Mel, P. Demis, A. Hart, et al. "The ventilation of buildings and other mitigating measures for COVID-19." *Proceedings: Mathematical, Physical and Engineering Sciences* 477 (2247), 1-31, 2021.
-
-**Cited by: 2**
 
 ## Links
 
