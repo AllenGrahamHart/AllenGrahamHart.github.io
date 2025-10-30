@@ -1,0 +1,84 @@
+baseURL = 'https://allengrahamhart.github.io/'
+languageCode = 'en-us'
+title = 'Allen Graham Hart - Academic Website'
+theme = 'PaperMod'
+
+[params]
+  # Features
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = false
+
+  # Profile mode for homepage
+  [params.profileMode]
+    enabled = true
+    title = "Allen Graham Hart"
+    subtitle = "Academic Researcher at University of Warwick"
+    imageUrl = ""
+    imageTitle = ""
+
+    [[params.profileMode.buttons]]
+      name = "Publications"
+      url = "/publication/"
+    [[params.profileMode.buttons]]
+      name = "Blog"
+      url = "/post/"
+    [[params.profileMode.buttons]]
+      name = "About"
+      url = "/about/"
+
+  # Social icons
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:your.email@warwick.ac.uk"
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/AllenGrahamHart"
+  [[params.socialIcons]]
+    name = "googlescholar"
+    url = "https://scholar.google.com/"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    url = "/publication/"
+    weight = 20
+  [[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    url = "/post/"
+    weight = 30
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 40
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = 'monokai'
+    lineNos = false

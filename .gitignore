@@ -1,0 +1,23 @@
+# Hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.swp
+*.swo
+.hugo_build.lock
+
+# IDE
+.vscode/
+.idea/
+
+# Node
+node_modules/
+package-lock.json
