@@ -56,6 +56,18 @@
 }
 
 /* Dark mode adjustments */
+.dark .cv-page h1 {
+    border-bottom-color: #7ab8e8;
+}
+
+.dark .cv-page h2 {
+    border-bottom-color: #7ab8e8;
+}
+
+.dark .cv-page .cv-contact {
+    border-left-color: #7ab8e8;
+}
+
 .dark .cv-page strong {
     color: #7ab8e8;
 }
