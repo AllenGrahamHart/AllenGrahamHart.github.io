@@ -55,49 +55,66 @@
     font-weight: 600;
 }
 
-/* Dark mode adjustments */
-.dark .cv-page h1 {
+/* Dark mode adjustments using prefers-color-scheme */
+@media (prefers-color-scheme: dark) {
+    .cv-page h1 {
+        color: #7ab8e8 !important;
+        border-bottom-color: #7ab8e8 !important;
+    }
+
+    .cv-page h2 {
+        color: #7ab8e8 !important;
+        border-bottom-color: #7ab8e8 !important;
+    }
+
+    .cv-page h3 {
+        color: #7ab8e8 !important;
+    }
+
+    .cv-page .cv-contact {
+        border-left-color: #7ab8e8 !important;
+    }
+
+    .cv-page strong {
+        color: #7ab8e8 !important;
+    }
+}
+
+/* Dark mode adjustments using class selectors */
+.dark .cv-page h1,
+body.dark .cv-page h1,
+html.dark .cv-page h1,
+[data-theme="dark"] .cv-page h1 {
     color: #7ab8e8 !important;
     border-bottom-color: #7ab8e8 !important;
 }
 
-.dark .cv-page h2 {
+.dark .cv-page h2,
+body.dark .cv-page h2,
+html.dark .cv-page h2,
+[data-theme="dark"] .cv-page h2 {
     color: #7ab8e8 !important;
     border-bottom-color: #7ab8e8 !important;
 }
 
-.dark .cv-page h3 {
+.dark .cv-page h3,
+body.dark .cv-page h3,
+html.dark .cv-page h3,
+[data-theme="dark"] .cv-page h3 {
     color: #7ab8e8 !important;
 }
 
-.dark .cv-page .cv-contact {
+.dark .cv-page .cv-contact,
+body.dark .cv-page .cv-contact,
+html.dark .cv-page .cv-contact,
+[data-theme="dark"] .cv-page .cv-contact {
     border-left-color: #7ab8e8 !important;
 }
 
-.dark .cv-page strong {
-    color: #7ab8e8 !important;
-}
-
-/* Additional dark mode selectors for PaperMod theme */
-body.dark .cv-page h1,
-html.dark .cv-page h1 {
-    color: #7ab8e8 !important;
-    border-bottom-color: #7ab8e8 !important;
-}
-
-body.dark .cv-page h2,
-html.dark .cv-page h2 {
-    color: #7ab8e8 !important;
-    border-bottom-color: #7ab8e8 !important;
-}
-
-body.dark .cv-page h3,
-html.dark .cv-page h3 {
-    color: #7ab8e8 !important;
-}
-
+.dark .cv-page strong,
 body.dark .cv-page strong,
-html.dark .cv-page strong {
+html.dark .cv-page strong,
+[data-theme="dark"] .cv-page strong {
     color: #7ab8e8 !important;
 }
 
