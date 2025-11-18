@@ -1,5 +1,5 @@
 ---
-title: "Curriculum Vitae"
+title: "CV & Publications"
 date: 2025-01-18
 draft: false
 ShowToc: false
@@ -9,13 +9,8 @@ ShowToc: false
 
 # Allen Hart
 
-<div class="cv-contact">
-
-**University of Warwick, Coventry, UK**
-**Phone:** +44 7729 779596
-**Email:** allen.hart@warwick.ac.uk
-
-</div>
+University of Warwick, Coventry, UK
++44 7729 779596 | allen.hart@warwick.ac.uk
 
 ## Education
 
@@ -71,27 +66,27 @@ TutorFair, Ivy Education, UK
 
 ## Publications
 
-**Hart, A.G.** Generic and isometric embeddings in reservoir computers. *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 35(11), 111103. [DOI](https://pubs.aip.org/aip/cha/article/35/11/111103/3370557)
+**2025** — **Hart, A.G.** Generic and isometric embeddings in reservoir computers. *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 35(11), 111103. [DOI](https://pubs.aip.org/aip/cha/article/35/11/111103/3370557)
 
-**Hart, A.G.** Generalised synchronisations, embeddings, and approximations for continuous time reservoir computers. *Physica D: Nonlinear Phenomena*, 458, 133956. [DOI](https://doi.org/10.1016/j.physd.2023.133956)
+**2024** — **Hart, A.G.** Generalised synchronisations, embeddings, and approximations for continuous time reservoir computers. *Physica D: Nonlinear Phenomena*, 458, 133956. [DOI](https://doi.org/10.1016/j.physd.2023.133956)
 
-Grigoryeva, L., **Hart, A.**, Ortega, J.P. Learning strange attractors with reservoir systems. *Nonlinearity*, 36(9), 4674. [DOI](https://doi.org/10.1088/1361-6544/ace492)
+**2023** — Grigoryeva, L., **Hart, A.**, Ortega, J.P. Learning strange attractors with reservoir systems. *Nonlinearity*, 36(9), 4674. [DOI](https://doi.org/10.1088/1361-6544/ace492)
 
-**Hart, A.G.** Reservoir Computing with Dynamical Systems. PhD Thesis, University of Bath. [Link](https://researchportal.bath.ac.uk/)
+**2022** — **Hart, A.G.** Reservoir Computing with Dynamical Systems. PhD Thesis, University of Bath. [Link](https://researchportal.bath.ac.uk/)
 
-Grigoryeva, L., **Hart, A.**, Ortega, J.P. Chaos on compact manifolds: Differentiable synchronizations beyond the Takens theorem. *Physical Review E*, 103(6), 062204. [DOI](https://doi.org/10.1103/PhysRevE.103.062204)
+**2021** — Grigoryeva, L., **Hart, A.**, Ortega, J.P. Chaos on compact manifolds: Differentiable synchronizations beyond the Takens theorem. *Physical Review E*, 103(6), 062204. [DOI](https://doi.org/10.1103/PhysRevE.103.062204)
 
-**Hart, A.G.**, Hook, J.L., Dawes, J.H.P. Echo state networks trained by Tikhonov least squares are L²(μ) approximators of ergodic dynamical systems. *Physica D: Nonlinear Phenomena*, 421, 132882. [DOI](https://doi.org/10.1016/j.physd.2021.132882)
+**2021** — **Hart, A.G.**, Hook, J.L., Dawes, J.H.P. Echo state networks trained by Tikhonov least squares are L²(μ) approximators of ergodic dynamical systems. *Physica D: Nonlinear Phenomena*, 421, 132882. [DOI](https://doi.org/10.1016/j.physd.2021.132882)
 
-Burridge, H.C., Bhagat, R.K., Stettler, M.E.J., Kumar, P., De Mel, I., Demis, P., **Hart, A.**, et al. The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime. *Proceedings of the Royal Society A*, 477(2247), 20200855. [DOI](https://doi.org/10.1098/rspa.2020.0855)
+**2021** — Burridge, H.C., Bhagat, R.K., Stettler, M.E.J., Kumar, P., De Mel, I., Demis, P., **Hart, A.**, et al. The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime. *Proceedings of the Royal Society A*, 477(2247), 20200855. [DOI](https://doi.org/10.1098/rspa.2020.0855)
 
-**Hart, A.G.**, Olding, K.R., Cox, A.M.G., Isupova, O., Dawes, J.H.P. Using echo state networks to approximate value functions for control. *arXiv preprint arXiv:2102.06258*. [Link](https://arxiv.org/abs/2102.06258)
+**2021** — **Hart, A.G.**, Olding, K.R., Cox, A.M.G., Isupova, O., Dawes, J.H.P. Using echo state networks to approximate value functions for control. *arXiv preprint arXiv:2102.06258*. [Link](https://arxiv.org/abs/2102.06258)
 
-**Hart, A.**, Hook, J., Dawes, J. Embedding and approximation theorems for echo state networks. *Neural Networks*, 128, 234–247. [DOI](https://doi.org/10.1016/j.neunet.2020.05.013)
+**2020** — **Hart, A.**, Hook, J., Dawes, J. Embedding and approximation theorems for echo state networks. *Neural Networks*, 128, 234–247. [DOI](https://doi.org/10.1016/j.neunet.2020.05.013)
 
-**Hart, A.G.**, Hansen, T.C., Kuhs, W.F. A hidden Markov model for describing turbostratic disorder applied to carbon blacks and graphene. *Acta Crystallographica Section A*, 75(3), 501–516. [DOI](https://doi.org/10.1107/S2053273319003789)
+**2019** — **Hart, A.G.**, Hansen, T.C., Kuhs, W.F. A hidden Markov model for describing turbostratic disorder applied to carbon blacks and graphene. *Acta Crystallographica Section A*, 75(3), 501–516. [DOI](https://doi.org/10.1107/S2053273319003789)
 
-**Hart, A.G.**, Hansen, T.C., Kuhs, W.F. A Markov theoretic description of stacking-disordered aperiodic crystals including ice and opaline silica. *Acta Crystallographica Section A*, 74(4), 357–372. [DOI](https://doi.org/10.1107/S2053273318003765)
+**2018** — **Hart, A.G.**, Hansen, T.C., Kuhs, W.F. A Markov theoretic description of stacking-disordered aperiodic crystals including ice and opaline silica. *Acta Crystallographica Section A*, 74(4), 357–372. [DOI](https://doi.org/10.1107/S2053273318003765)
 
 ---
 
@@ -110,6 +105,6 @@ Burridge, H.C., Bhagat, R.K., Stettler, M.E.J., Kumar, P., De Mel, I., Demis, P.
 
 ## Service
 
-**Reviewer for:** *IEEE TNNLS*, *Neural Networks*, *Physica D*, *Physical Review E*, *Chaos*, *SIAM J. Applied Mathematics*, *Journal of Computational Physics*, among others.
+**Reviewer for:** *IEEE TNNLS*, *Neural Networks*, *Physica D*, *Physical Review E*, *Chaos*, *SIAM J. Applied Mathematics*, *Journal of Computational Physics*, *Springer Nature*.
 
 </div>

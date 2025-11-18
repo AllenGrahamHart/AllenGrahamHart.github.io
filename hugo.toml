@@ -32,8 +32,8 @@ theme = 'PaperMod'
     imageTitle = "Allen Graham Hart"
 
     [[params.profileMode.buttons]]
-      name = "Publications"
-      url = "/publication/"
+      name = "CV & Publications"
+      url = "/cv/"
     [[params.profileMode.buttons]]
       name = "About"
       url = "/about/"
@@ -60,14 +60,9 @@ theme = 'PaperMod'
     weight = 10
   [[menu.main]]
     identifier = "cv"
-    name = "CV"
+    name = "CV & Publications"
     url = "/cv/"
     weight = 15
-  [[menu.main]]
-    identifier = "publications"
-    name = "Publications"
-    url = "/publication/"
-    weight = 20
   [[menu.main]]
     identifier = "llms-math"
     name = "LLMs Mathematics Research"

@@ -55,6 +55,11 @@
     font-weight: 600;
 }
 
+/* Dark mode adjustments */
+.dark .cv-page strong {
+    color: #7ab8e8;
+}
+
 /* Publication entries */
 .cv-page p {
     margin: 0.8rem 0;
