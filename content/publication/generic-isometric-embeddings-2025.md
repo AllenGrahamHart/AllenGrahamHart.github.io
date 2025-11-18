@@ -1,8 +1,8 @@
 ---
-title: "Generic and Isometric Embeddings in Reservoir Computers"
-date: 2025-01-01
+title: "Generic and isometric embeddings in reservoir computers"
+date: 2025-11-01
 draft: false
-tags: ["Reservoir Computing", "Machine Learning", "Embeddings"]
+tags: ["Reservoir Computing", "Machine Learning", "Embeddings", "Chaos"]
 author: "Allen G. Hart"
 description: "Analysis of generic and isometric embeddings in reservoir computing systems."
 summary: "Analysis of generic and isometric embeddings in reservoir computing systems."
@@ -12,12 +12,13 @@ weight: 2
 
 ## Citation
 
-Allen G. Hart. "Generic and Isometric Embeddings in Reservoir Computers." arXiv preprint arXiv:2508.21522, 2025.
+Allen G. Hart. "Generic and isometric embeddings in reservoir computers." *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 35(11), 111103, 2025.
 
 ## Links
 
+- [DOI](https://pubs.aip.org/aip/cha/article/35/11/111103/3370557)
 - [arXiv](https://arxiv.org/abs/2508.21522)
 
 ## Abstract
 
-Available on arXiv.
+Available at the journal website.

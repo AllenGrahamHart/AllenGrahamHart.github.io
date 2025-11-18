@@ -3,11 +3,12 @@ title: "About"
 layout: "about"
 url: "/about/"
 summary: about
+ShowToc: false
 ---
 
 ## About Me
 
-In May 2025 I started working as an Innovation Research Associate (InRA) at Warwick University, a role where I work on a wide range of exciting projects collaborating with academics and industry partners, including battery optimisation and efficient vector search. In my own research time I am working on forecasting the capabilities of AI to autonomously conduct pure and applied mathematics research. 
+In May 2025 I started working as an Innovation Research Associate (InRA) at Warwick University, a role where I work on a wide range of exciting projects collaborating with academics and industry partners, including battery optimisation and efficient vector search. I am very interested in AI safety and forecasting, and am studying the capabilities of AI agents to autonomously conduct pure and applied mathematics research. 
 
 I completed my PhD at the University of Bath as part of the SAMBa CDT, which included a masters degree in statistics and applied mathematics. My research was into an esoteric recurrent neural network called a Reservoir Computer, which has random features and is trained with linear regression. Alongside my PhD research I collaborated with a COVID modelling group as part of the Rapid Assistance in Modelling the Pandemic (RAMP) team.
 

@@ -1,0 +1,133 @@
+/* CV Page Styling - Emulating LaTeX ModernCV style */
+
+.cv-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* Header/Title styling */
+.cv-page h1 {
+    font-size: 2.5rem;
+    font-weight: 300;
+    margin-bottom: 0.5rem;
+    color: #2c3e50;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 0.5rem;
+}
+
+.cv-page .cv-contact {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border-left: 4px solid #3498db;
+    font-size: 0.95rem;
+    line-height: 1.8;
+}
+
+.cv-contact p {
+    margin: 0.2rem 0;
+}
+
+/* Section headers */
+.cv-page h2 {
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: #2c3e50;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 2px solid #3498db;
+}
+
+/* Subsection styling for job/education entries */
+.cv-page h3 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #34495e;
+    margin-top: 1.2rem;
+    margin-bottom: 0.3rem;
+}
+
+.cv-page strong {
+    color: #2c3e50;
+    font-weight: 600;
+}
+
+/* Publication entries */
+.cv-page p {
+    margin: 0.8rem 0;
+    line-height: 1.7;
+}
+
+/* Links */
+.cv-page a {
+    color: #3498db;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom-color 0.2s;
+}
+
+.cv-page a:hover {
+    border-bottom-color: #3498db;
+}
+
+/* Horizontal rules */
+.cv-page hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 2rem 0;
+}
+
+/* Lists */
+.cv-page ul {
+    margin: 0.5rem 0;
+    padding-left: 1.5rem;
+}
+
+.cv-page li {
+    margin: 0.3rem 0;
+}
+
+/* Job/Education entry styling */
+.cv-page p:has(strong) {
+    margin-bottom: 0.3rem;
+}
+
+/* Print styling */
+@media print {
+    .cv-page {
+        max-width: 100%;
+        padding: 0;
+    }
+
+    .cv-page h1 {
+        border-bottom-color: #000;
+    }
+
+    .cv-page h2 {
+        border-bottom-color: #000;
+        page-break-after: avoid;
+    }
+
+    .cv-page a {
+        color: #000;
+        text-decoration: underline;
+    }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    .cv-page {
+        padding: 1rem 0.5rem;
+    }
+
+    .cv-page h1 {
+        font-size: 2rem;
+    }
+
+    .cv-page h2 {
+        font-size: 1.2rem;
+    }
+}

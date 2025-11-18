@@ -25,9 +25,11 @@ theme = 'PaperMod'
   [params.profileMode]
     enabled = true
     title = "Allen Graham Hart"
-    subtitle = "Academic Researcher at University of Warwick"
-    imageUrl = ""
-    imageTitle = ""
+    subtitle = "Innovation Research Associate at Warwick University"
+    imageUrl = "/profile_picture.png"
+    imageWidth = 200
+    imageHeight = 200
+    imageTitle = "Allen Graham Hart"
 
     [[params.profileMode.buttons]]
       name = "Publications"
@@ -57,10 +59,25 @@ theme = 'PaperMod'
     url = "/about/"
     weight = 10
   [[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "/cv/"
+    weight = 15
+  [[menu.main]]
     identifier = "publications"
     name = "Publications"
     url = "/publication/"
     weight = 20
+  [[menu.main]]
+    identifier = "llms-math"
+    name = "LLMs Mathematics Research"
+    url = "/llms-mathematics/"
+    weight = 25
+  [[menu.main]]
+    identifier = "ai-safety"
+    name = "AI Safety"
+    url = "/ai-safety/"
+    weight = 26
   [[menu.main]]
     identifier = "search"
     name = "Search"
