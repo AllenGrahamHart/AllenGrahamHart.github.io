@@ -10,7 +10,7 @@ ShowToc: false
 # Allen Hart
 
 University of Warwick, Coventry, UK
-+44 7729 779596 | allen.hart@warwick.ac.uk
+allen.hart@warwick.ac.uk
 
 ## Education
 
