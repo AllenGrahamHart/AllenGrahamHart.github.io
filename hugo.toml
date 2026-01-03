@@ -4,6 +4,9 @@ title = 'Allen Graham Hart'
 theme = 'PaperMod'
 
 [params]
+  # Math rendering
+  math = true
+
   # Features
   ShowReadingTime = true
   ShowShareButtons = false
