@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "AI Capabilities in Mathematics Research"
 math: true
 ---

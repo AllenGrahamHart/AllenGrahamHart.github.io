@@ -40,6 +40,9 @@ theme = 'PaperMod'
     [[params.profileMode.buttons]]
       name = "About"
       url = "/about/"
+    [[params.profileMode.buttons]]
+      name = "Prize DAG"
+      url = "/prize-dag/"
 
   # Social icons
   [[params.socialIcons]]
@@ -67,15 +70,10 @@ theme = 'PaperMod'
     url = "/cv/"
     weight = 15
   [[menu.main]]
-    identifier = "llms-math"
-    name = "LLMs Mathematics Research"
-    url = "/llms-mathematics/"
-    weight = 25
-  [[menu.main]]
-    identifier = "ai-safety"
-    name = "AI Safety"
-    url = "/ai-safety/"
-    weight = 26
+    identifier = "prize-dag"
+    name = "Prize DAG"
+    url = "/prize-dag/"
+    weight = 20
   [[menu.main]]
     identifier = "search"
     name = "Search"
